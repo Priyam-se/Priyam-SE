@@ -15,7 +15,7 @@
 * 🌱 I’m currently diving deeper into **Advanced React patterns, Node.js Security, and DevSecOps**.
 * 💡 I love creating projects that not only solve problems but are built with security-first principles.
 * 💬 Ask me about **MongoDB, Express, React, Node.js, and Cybersecurity fundamentals**.
-* 📫 How to reach me: [LinkedIn](www.linkedin.com/in/priyam-pratyush-panda-64a57b400) *(Just connect and say hi!)*
+* 📫 How to reach me: [LinkedIn](www.linkedin.com/in/priyam-pratyush-panda) *(Just connect and say hi!)*
 
 ---
 
